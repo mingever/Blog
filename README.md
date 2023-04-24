@@ -10,12 +10,6 @@
 	git checkout dev
 	```
 
-3. pull 代码
-
-	``` bash
-	git pull
-	```
-
 4. 安装node依赖
 
 	``` bash
