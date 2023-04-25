@@ -5,8 +5,8 @@ categories:
 - 随笔
 tags:
 - 随笔
-top_img:
-cover:
+top_img: 
+cover: https://oss.mingever.com/website/cover.jpg
 description: 我的第一篇博客
 ---
 
