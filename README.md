@@ -1,14 +1,14 @@
 1. clone代码
 
-  ``` bash
-  git clone git@github.com:mingever/blog.git
-  ```
+	```bash
+	git clone git@github.com:mingever/blog.git
+	```
 
 2. 切换分支
 
-  ``` bash
-  git checkout dev
-  ```
+	```bash
+	git checkout dev
+	```
 
 3. 安装node依赖
 
