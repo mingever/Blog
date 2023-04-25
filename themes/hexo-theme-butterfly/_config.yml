@@ -42,7 +42,7 @@ copy:
 social:
    fab fa-github: https://github.com/mingever || Github
    fas fa-envelope: mailto:iscaoming@qq.com || Email
-   fa  fa-steam-square: XXX ||Stream
+   fab fa-steam: https://steamcommunity.com/id/mingever/ || Stream
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
