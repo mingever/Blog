@@ -1,7 +1,7 @@
 ---
 title: Helo World
 date: 2023-04-25 22:15:16
-cover:
+cover: https://oss.mingever.com/blog/Hello_World/cover.jpg
 top_img:
 tags:
 - 随笔
