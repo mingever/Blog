@@ -6,6 +6,7 @@ top_img:
 tags:
 - 随笔
 categories:
+- 随笔
 keywords:
 description: hello world! 我的第一篇博客
 ---
