@@ -676,7 +676,7 @@ aside:
     categories: true
   card_author:
     enable: true
-    description: 不问过去 无论将来
+    description: 愿你阅尽千帆 归来仍是少年
     button:
       enable: true
       icon: fab fa-github
